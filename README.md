@@ -13,6 +13,7 @@
   <img  src="https://komarev.com/ghpvc/?username=knvzzi&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
   Student — Software Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
