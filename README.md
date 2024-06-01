@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVsMGY1ZGplNTUwZnFqdnB6NTg4MG1zOGRjaTZxMTN2amoya21jdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrgZ1QI25OBwI/giphy.gif" width="4500"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVsMGY1ZGplNTUwZnFqdnB6NTg4MG1zOGRjaTZxMTN2amoya21jdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrgZ1QI25OBwI/giphy.gif" width="450"/>
 </div>
 <div id="badges" align="center">
   <a href="kazantsava.tatsiana@gmail.com">
