@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVsMGY1ZGplNTUwZnFqdnB6NTg4MG1zOGRjaTZxMTN2amoya21jdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrgZ1QI25OBwI/giphy.gif" width="450"/>
 </div>
 <div id="badges" align="center">
-  <a href="kazantsava.tatsiana@gmail.com">
+  <a href="mailto:kazantsava.tatsiana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://web.telegram.org/k/#@knvzzi">
