@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVsMGY1ZGplNTUwZnFqdnB6NTg4MG1zOGRjaTZxMTN2amoya21jdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrgZ1QI25OBwI/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="kazantsava.tatsiana@gmail.com">
